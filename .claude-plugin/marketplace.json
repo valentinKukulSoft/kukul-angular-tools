@@ -1,0 +1,16 @@
+{
+  "name": "kukul-angular-tools",
+  "owner": {
+    "name": "Kukul"
+  },
+  "metadata": {
+    "description": "Skills de Claude Code del equipo Kukul para proyectos Angular"
+  },
+  "plugins": [
+    {
+      "name": "kukul-angular",
+      "source": "./plugins/kukul-angular",
+      "description": "Skills para auditar proyectos Angular y actualizar Angular y sus dependencias por fases"
+    }
+  ]
+}
